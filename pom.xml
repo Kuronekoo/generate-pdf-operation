@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.kuroneko.demo</groupId>
-    <artifactId>msoffice-operation</artifactId>
+    <artifactId>generate-pdf-operation</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>

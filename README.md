@@ -1,5 +1,6 @@
-# 案件管理系统ccm
+# use template to generate pdf demos
 
 
-## 打包方式
+## way to package
 mvn clean package -Dmaven.test.skip=true
+
