@@ -11,6 +11,7 @@
     <modules>
         <module>word-to-pdf</module>
         <module>html-to-pdf</module>
+        <module>ftl-to-pdf</module>
     </modules>
     <properties>
         <junit.version>4.12</junit.version>
