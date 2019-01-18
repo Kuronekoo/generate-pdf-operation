@@ -1,11 +1,10 @@
 package cn.kuroneko.test;
 
+import cn.kuroneko.utils.WordUtils;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;
-import cn.com.crv.ccm.service.utils.WordUtils;
-import javax.servlet.http.HttpServletResponse;
-import java.io.File;
+
 import java.time.LocalDateTime;
 import java.time.ZoneOffset;
 import java.util.HashMap;
