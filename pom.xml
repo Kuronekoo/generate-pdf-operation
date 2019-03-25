@@ -13,6 +13,7 @@
         <module>html-to-pdf</module>
         <module>ftl-to-pdf</module>
         <module>word-to-ftl-to-word</module>
+        <module>export-import-excel</module>
     </modules>
     <properties>
         <junit.version>4.12</junit.version>
